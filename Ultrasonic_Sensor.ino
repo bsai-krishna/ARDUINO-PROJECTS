@@ -1,3 +1,6 @@
+//created by B sai krishna
+//This mini project helps u understand the use of ultrasonic sensor
+//refer to ultrasonic_circuit.JPG for connections
 const int trigPin =4 ;
 const int echoPin =2 ;
 const int led=13;                   
