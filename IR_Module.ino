@@ -1,3 +1,6 @@
+//created by B sai krishna
+//This project would give u the basic knowledge about  how an IR sensor works.
+//refer to IR.jpeg for connections 
 const int irs = 7;
 const int led = 8;
 int detect;
