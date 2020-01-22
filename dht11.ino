@@ -1,3 +1,7 @@
+//created by B Sai Krishna
+//refer to DHT for circuit reference
+//Add dht libraries to the arduino library if it is not present already.
+//here dht11 model of the sensor is used
 #include<DHT.h>
 #define DHTPIN 3
 #define DHTTYPE DHT11
