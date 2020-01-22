@@ -1,4 +1,7 @@
- int av1=A3;
+// created by B sai krishna
+// This would help u understand about the ADXL sensor 
+//refer to adxl.JPG for reference 
+int av1=A3;
 int av2=A4;
 int a,b,x,y;
 void setup() {
