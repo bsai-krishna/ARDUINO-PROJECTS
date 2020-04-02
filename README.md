@@ -1,8 +1,7 @@
 HELLO FELLOW CODERS :] 
 
 
-This is sai..
-THIS Repo consists of many mini projects related to arduino and sensors.
+This Repo consists of many mini projects related to arduino and sensors.
 This would be of great help if you are a beginner to arduino environment and coding.
 
 FOR DTH.ino 
